@@ -1,0 +1,6 @@
+{
+  "name": "CLASSIFIED_NET",
+  "description": "An invite-only intelligence-dossier social network and synced watch-lobby platform for movies, TV series, and anime with P2P messaging and inline media previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
